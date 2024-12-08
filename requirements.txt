@@ -1,0 +1,11 @@
+perfect
+pydub
+librosa
+speechrecognition
+spacy
+scikit-learn
+webrtcvad
+torch
+whisper
+numpy
+
