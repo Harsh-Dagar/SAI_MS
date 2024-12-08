@@ -1,1 +1,4 @@
 py_env
+data/audio/
+data/processed_audio/
+
